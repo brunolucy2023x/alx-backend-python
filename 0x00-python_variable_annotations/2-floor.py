@@ -3,6 +3,8 @@
 Basic annotations - floor
 Write type-annotated function floor with float argument
 Returns floor of the float
+
+Developer: Bruno Owino
 """
 
 
