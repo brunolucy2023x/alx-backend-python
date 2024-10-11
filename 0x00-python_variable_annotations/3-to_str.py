@@ -3,6 +3,8 @@
 Basic annotations - to string
 Write typed-annotation function to_str that takes a float argument
 Returns string repr of the float
+
+Developer: Bruno Owino
 """
 
 
