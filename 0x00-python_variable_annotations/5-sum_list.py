@@ -4,6 +4,8 @@ Complex types - list of floats
 Write type-annotated function sum_list, takes input_list of floats
 as arguments
 Returns their sum as float
+
+Developer Bruno Owino
 """
 from typing import List
 
