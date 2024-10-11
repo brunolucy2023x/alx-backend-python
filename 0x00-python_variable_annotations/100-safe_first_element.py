@@ -2,6 +2,8 @@
 """
 Duck typing - first element of a sequence
 Augument code with correct duck-typed annotations
+
+Developer Bruno Owino
 """
 from typing import Union, Any, Sequence
 
