@@ -3,6 +3,8 @@
 Complex types - string and int/float to tuple
 Write typed-annotated function to_kv that takes str k and an int OR float v
 Returns a tuple
+
+Developer Bruno Owino
 """
 from typing import Union, Tuple
 
