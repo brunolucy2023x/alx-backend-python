@@ -3,6 +3,8 @@
 Type checking
 Use mypy to validate code piece
 apply any necessary changes
+
+Developer Bruno Owino
 """
 from typing import Tuple, List
 

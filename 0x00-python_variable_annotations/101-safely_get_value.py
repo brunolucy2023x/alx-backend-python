@@ -2,6 +2,8 @@
 """
 More involved type annotations
 Add type annotations to function safely_get_value
+
+Developer Bruno Owino
 """
 from typing import Sequence, Union, Any, TypeVar, Mapping
 
