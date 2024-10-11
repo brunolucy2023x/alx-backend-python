@@ -4,6 +4,8 @@ Complex types - functions
 Write typed-annotated function make_multiplier
 takes float multiplier argument
 Returns function that multiplies a float by a multipier
+
+Developer Bruno Owino
 """
 from typing import Callable
 
