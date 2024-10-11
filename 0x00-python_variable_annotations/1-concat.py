@@ -3,6 +3,8 @@
 Basic Annotations - concat
 Write type-annotated function concat that takes two strings as argument
 Returns a concatenated string
+
+Developer: Bruno Owino
 """
 
 
