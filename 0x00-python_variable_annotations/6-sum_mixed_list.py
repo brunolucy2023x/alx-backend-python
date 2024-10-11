@@ -4,6 +4,8 @@ Complex types - mixed list
 Write typed-annotated function sum_mixed_list
 takes mxd_lst integers and floats
 Returns their sum as float
+
+Developer Bruno Owino
 """
 from typing import Union, List
 
