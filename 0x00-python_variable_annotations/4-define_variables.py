@@ -2,6 +2,8 @@
 """
 Define variables
 Define and annotate variables with specified values
+
+Developer Bruno Okoth
 """
 
 
