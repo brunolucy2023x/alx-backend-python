@@ -3,6 +3,8 @@
 Basic Annotations - add
 Function to write a type-annotated function add
 Takes two float a, b and return their sum as float
+
+Developer: Bruno Owino
 """
 
 
