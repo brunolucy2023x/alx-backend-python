@@ -3,6 +3,8 @@
 Duck type iterable object
 Annotate a function param and return values
 with appropriate types
+
+Developer Bruno Owino
 """
 from typing import Sequence, Iterable, List, Tuple
 
