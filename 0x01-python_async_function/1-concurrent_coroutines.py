@@ -3,6 +3,8 @@
 Execute multiple coroutines same time with async
 Write async coroutine
 takes argument wait_n and max_delay
+
+Author: Bruno Owino
 """
 import asyncio
 from typing import List
