@@ -4,6 +4,8 @@ Measure the runtime
 Create function measure_time, takes argument n and max_delay
 measures total execution for wait_n(n, max_delay)
 Returns total_time / n float
+
+Author :Bruno Owino
 """
 import time
 import asyncio

@@ -3,6 +3,8 @@
 Tasks
 Write function task_wait_random, takes integer argument max_delay
 Returns a asyncio.Task
+
+Author:Bruno Owino
 """
 import asyncio
 

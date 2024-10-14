@@ -2,6 +2,8 @@
 """
 Tasks
 Alter a code into a new function task_wait_n
+
+Author:Bruno Owino
 """
 import asyncio
 from typing import List
