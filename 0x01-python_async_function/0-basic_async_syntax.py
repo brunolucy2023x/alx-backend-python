@@ -3,6 +3,8 @@
 Basics of async
 Write asynchronous coroutine
 Takes integer argument max_delay
+
+Author:Bruno Owino
 """
 
 import random
