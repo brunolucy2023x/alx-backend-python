@@ -4,6 +4,8 @@ Async Generator
 Write coroutine async_generator that takes two arguments
 loops 10x, wait 1sec each time asynchronously
 yield random number between 0-10 using random module
+
+Author:Bruno Owino
 """
 import random
 import asyncio

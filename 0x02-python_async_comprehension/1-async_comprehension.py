@@ -3,6 +3,8 @@
 Async Comprehensions
 Write coroutine async_comprehension, takes no arguments
 Return 10 random numbers collected using async comprehensions
+
+Author:Bruno Owino
 """
 from typing import List
 Vector = List[float]

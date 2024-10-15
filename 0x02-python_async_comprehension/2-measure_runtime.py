@@ -3,6 +3,8 @@
 Runtime for parallel comprehensions
 Write coroutine measure_runtime to execute async_comprehension
 measure_runtime to measure total runtime and return it
+
+Author: Bruno Owino
 """
 import asyncio
 import time
